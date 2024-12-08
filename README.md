@@ -26,7 +26,7 @@ The code was tested on Pop!_OS 22.04 LTS, which is equivalent to Ubuntu 22.04 LT
 2. Create an Anaconda environment or create your own virtual environment
 
     ```bash
-    conda create -n TacDiffusion python=3.9
+    conda create -n TacDiffusion python=3.10
     conda activate TacDiffusion
     pip install -r requirements.txt
     conda install -c conda-forge eigenpy

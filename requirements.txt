@@ -3,3 +3,7 @@ torch
 scikit-learn
 torchvision
 tensorboard
+xlsxwriter
+pandas
+onnxruntime
+matplotlib
